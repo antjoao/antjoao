@@ -9,7 +9,7 @@
 </div>
   
 <div>
-  
+  width="20px"
 </div>
 
 <img 
