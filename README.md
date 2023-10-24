@@ -7,18 +7,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-<div style="
-  min-width="20px"
-  max-width="20px"
-  width="20px"
-</div>
 
 <br>
-
-
-
-
 
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Springoz&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
@@ -37,7 +27,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Springoz/Springoz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Springoz/Springoz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Springoz/Springoz/output/github-contribution-grid-snake.svg">
+  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Springoz/Springoz/output/github-contribution-grid-snake.svg">
 </picture>
 
 
