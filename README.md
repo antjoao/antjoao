@@ -8,6 +8,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+<div>
+  
+</div>
+
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Springoz&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
    min-width="350px" 
