@@ -13,8 +13,8 @@
    min-width="350px" 
    max-width="350px" 
    width="350px" 
-   align="left"
-   alt="Guilherme Alves">
+   align="center"
+   alt="Springoz">
  
 <div> 
   <a href="https://www.instagram.com/joaoant.sz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
