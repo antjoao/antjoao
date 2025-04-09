@@ -1,4 +1,5 @@
-‎Saudações, me chamo João, e sou um aprendiz do Código. 👨‍💻🌐 
+‎Saudações
+👨‍💻🌐 
 
 Eng. de Software - BioPark
 
