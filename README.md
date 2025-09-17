@@ -11,14 +11,6 @@ Eng. de Software - <a href="https://biopark.com.br">BioPark</a>
 </div>
 
 <br>
-
-<img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=antjoao&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
-   min-width="350px" 
-   max-width="350px" 
-   width="350px" 
-   align="center"
-   alt="Springoz">
  
 <div> 
   <a href="https://www.instagram.com/joaoantsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
