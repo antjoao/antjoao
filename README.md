@@ -1,4 +1,4 @@
-👨‍💻🌐 
+🌐 
 
 ADS - <a href="https://biopark.com.br">BioPark</a>
 
